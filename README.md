@@ -1,7 +1,12 @@
 
-# Quizzler ❔
+# Quizzler ❔⁉️
 
 It's a Quiz app that has set of Question and Answers.
+
+
+<img src="quizzScreenShot.png" width="240" height="500">
+
+<img src="messageScreenshot.png" width="240" height="500">
 
 
 ## Things have been done
